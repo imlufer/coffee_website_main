@@ -31,4 +31,4 @@ Puedes visualizar el proyecto abriendo el archivo `index.html` en tu navegador w
 ![Vista previa de COFFEWEBSITE](demo/captura8.png)
 ![Vista previa de COFFEWEBSITE](demo/captura9.png)
 
-¡Gracias por visitar COFFEWEBSITE! 
+¡Gracias por visitar COFFEWEBSITE! ss
